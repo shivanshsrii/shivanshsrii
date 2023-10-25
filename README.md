@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shivamsh Srivastava
+- 👋 Hi, I’m Shivansh Srivastava
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently working at Infosys Bangalore as a .net Developer using ASP.NET and Entity Framework.For front end i am using html, css , javascript and also Angular Framework.
+- 🌱 I’m currently working at Infosys Bangalore as a .net Developer using ASP.NET and Entity Framework. For front end I am using html, css , javascript and also Angular Framework.
 - 💞️ I love to do problem solving and designing at front end with creativity .
 - 📫 reach me ...at srishivansh22@gmail.com
 
