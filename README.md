@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshsrii" alt="shivanshsrii" /></a> </p>
 
-- 🔭 I’m currently working on [a MERN blogging project](https://github.com/shivanshsrii/mern-blog-project)
+- 🔭 I’m currently working on [ .NET related short Projects ]
 
-- 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on [a MERN project](https://github.com/shivanshsrii/mern-blog-project)
-
-- 👨‍💻 All of my projects are available at [https://shivanshsrii.github.io/portfolio-website/](https://shivanshsrii.github.io/portfolio-website/)
+- 🌱 I’m currently learning **MSP .NET Core**
 
 - 📫 How to reach me **shivansh22@gmail.com**
 
