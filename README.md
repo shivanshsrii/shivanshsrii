@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ .NET related short Projects ]
 
-- 🌱 I’m currently learning **MSP .NET Core**
+- 🌱 I’m currently learning **.NET Core**
 
 - 📫 How to reach me **shivansh22@gmail.com**
 
