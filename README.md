@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ .NET related short Projects ]
 
-- 🌱 I’m currently learning ** C# , SQL SEVER, ASP.NET WEB API, ASP.NET MVC, ANGULAR , DSA **
+- 🌱 I’m currently learning **C# , SQL SEVER, ASP.NET WEB API, ASP.NET MVC, ANGULAR , DSA**
 
 - 📫 How to reach me **shivansh22@gmail.com**
 
