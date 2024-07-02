@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshsrii" alt="shivanshsrii" /></a> </p>
 
-- 🔭 I’m currently working on [ .NET related short Projects ]
+- 🔭 I’m currently working on [ ANGULAR short Project ]
 
 - 🌱 I’m currently learning **C# , SQL SEVER, ASP.NET WEB API, ASP.NET MVC, ANGULAR , DSA**
 
