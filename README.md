@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C# , SQL SEVER, ASP.NET WEB API, ASP.NET MVC, ANGULAR , DSA**
 
-- 📫 How to reach me **shivansh22@gmail.com**
+- 📫 How to reach me **shivanshat25@gmail.com**
 
 - 📄 Know about my experiences [https://shivanshsrii.github.io/portfolio-website/](https://shivanshsrii.github.io/portfolio-website/)
 
